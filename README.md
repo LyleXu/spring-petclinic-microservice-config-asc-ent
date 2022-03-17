@@ -1,0 +1,1 @@
+# spring-petclinic-microservice-config-asc-ent-
